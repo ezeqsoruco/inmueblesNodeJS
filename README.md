@@ -4,7 +4,7 @@
    a. Crear la carpeta con el nombre mencionado
    b. Dentro de la carpeta crear el archivo index.js
    c. Ejecutar el comando correspondiente para crear el archivo package.json
-   d. Instalar los siguientes paquetes en el proyecto: express, nodemon, body-parser
+   d. Instalar los siguientes paquetes en el proyecto: express, nodemon y cors
    e. En el package.json generar los scripts necesarios para ejecutar el proyecto.
 
 2. Crear un archivo .js con el nombre "inmuebles" dentro de una carpeta denominada "Datos" y dentro de ella crear un array que contenga los inmuebles del archivo inmuebles.txt. (No olvidar de exportar el array).
