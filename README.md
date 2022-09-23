@@ -7,7 +7,7 @@
    d. Instalar los siguientes paquetes en el proyecto: express, nodemon, body-parser
    e. En el package.json generar los scripts necesarios para ejecutar el proyecto.
 
-2. Crear un archivo .js con el nombre "inmuebles" y dentro de ella crear un array que contenga los inmuebles del archivo inmuebles.txt. (No olvidar de exportar el array).
+2. Crear un archivo .js con el nombre "inmuebles" dentro de una carpeta denominada "Datos" y dentro de ella crear un array que contenga los inmuebles del archivo inmuebles.txt. (No olvidar de exportar el array).
 
 3. En index.js crear un servidor utilizando "express", que escuche en el puerto 3001 y mediante consola mostrar el puerto.
 
